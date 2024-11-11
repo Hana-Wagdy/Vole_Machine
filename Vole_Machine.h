@@ -1,18 +1,6 @@
-
-// IMPROTANT NOTES FOR GRADING TUT:
-// please notice the following features of out programme
-// 1. register doesnt change to you chose respone to halt
-// 2. there is two options halt till run and halt one cycle
-// if one of them isnt nessecairy please ignore it
-// thank you so much
-
 // Maya Mohamed salah 20230311   s2
 // Hana wagdy nagy 20230459      s1
 // Marian ahmed abelwahab ali 20230777
-
-// git hub repo link :
-
-//https://github.com/Hana-Wagdy/Vole_Machine
 
 #ifndef VOLEMACHINE_H
 #define VOLEMACHINE_H
